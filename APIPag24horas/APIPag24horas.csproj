@@ -17,19 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <COMReference Include="CobreBemX.dll">
-      <Guid>97b92612-ea6b-4e12-b759-91b91554de0d</Guid>
-      <VersionMajor>1</VersionMajor>
-      <VersionMinor>0</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>tlbimp</WrapperTool>
-      <Isolated>false</Isolated>
-      <EmbedInteropTypes>true</EmbedInteropTypes>
-      <Private>true</Private>
-    </COMReference>
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="db\dataset\" />
   </ItemGroup>
 

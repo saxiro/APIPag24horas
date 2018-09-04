@@ -1,0 +1,11 @@
+C:\projetos\APIPag24horas\bin\Debug\netcoreapp2.0\APIPag24horas.deps.json
+C:\projetos\APIPag24horas\bin\Debug\netcoreapp2.0\APIPag24horas.runtimeconfig.json
+C:\projetos\APIPag24horas\bin\Debug\netcoreapp2.0\APIPag24horas.runtimeconfig.dev.json
+C:\projetos\APIPag24horas\bin\Debug\netcoreapp2.0\APIPag24horas.dll
+C:\projetos\APIPag24horas\bin\Debug\netcoreapp2.0\APIPag24horas.pdb
+C:\projetos\APIPag24horas\obj\Debug\netcoreapp2.0\APIPag24horas.csprojAssemblyReference.cache
+C:\projetos\APIPag24horas\obj\Debug\netcoreapp2.0\APIPag24horas.csproj.CoreCompileInputs.cache
+C:\projetos\APIPag24horas\obj\Debug\netcoreapp2.0\APIPag24horas.AssemblyInfoInputs.cache
+C:\projetos\APIPag24horas\obj\Debug\netcoreapp2.0\APIPag24horas.AssemblyInfo.cs
+C:\projetos\APIPag24horas\obj\Debug\netcoreapp2.0\APIPag24horas.dll
+C:\projetos\APIPag24horas\obj\Debug\netcoreapp2.0\APIPag24horas.pdb
